@@ -1,6 +1,7 @@
 # cgr-control-previo
 
-Catálogo de reglas de control previo aplicadas a libramientos de pago.
-Proyecto de práctica del curso de Git · Contraloría General de la República.
+CatÃ¡logo de reglas de control previo aplicadas a libramientos de pago.
+Proyecto de prÃ¡ctica del curso de Git Â· ContralorÃ­a General de la RepÃºblica.
 ""  
-"Alcance: reglas de control previo, par�metros de revisi�n y consultas de apoyo." 
+"Alcance: reglas de control previo, par metros de revisi¢n y consultas de apoyo." 
+Responsable funcional: Dirección de Control Previo (ejemplo).
